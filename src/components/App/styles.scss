@@ -1,0 +1,21 @@
+.app {
+  width: 500px;
+  margin: 1em auto;
+  text-align: center;
+  background-color: #DFCDD6;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+  
+}
+
+.app:hover {
+  border : 2px solid #000000;
+  box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+}
+
+.app img {
+  max-width: 150px;
+}
