@@ -20,5 +20,16 @@ Des résultats seront fournis grâce à des listes de depôts github en fonction
 
 ## Résultat
 
-<img src='github.png'>
- 
+<article> 
+<img src='github1.png' alt='resultat'> 
+</article>      
+  
+<br>   
+
+
+<article> 
+<img src='github2.png' alt='resultat-2'> 
+</article>
+  
+
+
