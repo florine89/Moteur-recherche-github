@@ -6,7 +6,7 @@
 
 
 Sur la page recherche, complétez le champ de recherche et valider la recherche.
-Des résultats seront fournis grâce à des listes de depôts github e, fonction de votre recherche.
+Des résultats seront fournis grâce à des listes de depôts github en fonction de votre recherche.
 
 
 ## Tecnhos utilisées
@@ -17,4 +17,8 @@ Des résultats seront fournis grâce à des listes de depôts github e, fonction
  Consommation de l'API à l'aide d'Axios
 
  CSS : fait main + Semantic-ui 
+
+## Résultat
+
+<img src='github.png'>
  
